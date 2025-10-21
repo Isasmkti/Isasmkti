@@ -5,6 +5,12 @@
   Saya adalah seseorang yang bersemangat dalam dunia <b>kreativitas</b> dan <b>teknologi</b>, dengan minat besar pada <b>kewirausahaan digital</b>.  
   Saya percaya bahwa setiap ide bisa menjadi sesuatu yang bernilai jika digarap dengan <i>tekun dan konsisten</i> 💡
 </p>
+---
+
+### 💖 Viewer (Visitor Counter)
+<p align="center">
+  <img src="https://count.getloli.com/get/@BaseteamProject?theme=rule34" alt="visitor counter" />
+</p>
 
 ---
 
@@ -41,12 +47,7 @@ Saya sedang memperdalam pengembangan web dengan teknologi:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
----
 
-### 💖 Viewer (Visitor Counter)
-<p align="center">
-  <img src="https://count.getloli.com/get/@BaseteamProject?theme=rule34" alt="visitor counter" />
-</p>
 
 ---
 
