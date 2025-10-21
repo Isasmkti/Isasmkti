@@ -60,4 +60,5 @@ Saya sedang memperdalam pengembangan web dengan teknologi:
 
 <p align="center">
   Terima kasih sudah mampir 💫  
-  Jangan lupa ⭐ repo kala
+  Jangan lupa ⭐ repo kalau kamu suka karya saya 😄
+</p>
