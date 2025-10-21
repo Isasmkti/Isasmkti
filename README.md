@@ -3,7 +3,7 @@
 <p align="center">
   Selamat datang di profil GitHub saya! 🌟  
   Saya adalah seseorang yang bersemangat dalam dunia <b>kreativitas</b> dan <b>teknologi</b>, dengan minat besar pada <b>kewirausahaan digital</b>.  
-  Saya percaya bahwa setiap ide bisa menjadi sesuatu yang bernilai jika digarap dengan <i>tekun dan konsisten</i> 💡
+  Saya percaya bahwa setiap ide bisa menjadi sesuatu yang bernilai jika digarap dengan <i>tekun dan konsisten</i>
 </p>
 ---
 
