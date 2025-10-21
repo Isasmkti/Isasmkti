@@ -3,13 +3,14 @@
 <p align="center">
   Selamat datang di profil GitHub saya! 🌟  
   Saya adalah seseorang yang bersemangat dalam dunia <b>kreativitas</b> dan <b>teknologi</b>, dengan minat besar pada <b>kewirausahaan digital</b>.  
-  Saya percaya bahwa setiap ide bisa menjadi sesuatu yang bernilai jika digarap dengan <i>tekun dan konsisten</i>
+  Saya percaya bahwa setiap ide bisa menjadi sesuatu yang bernilai jika digarap dengan <i>tekun dan konsisten</i> 💡
 </p>
+
 ---
 
 ### 💖 Viewer (Visitor Counter)
 <p align="center">
-  <img src="https://count.getloli.com/get/@BaseteamProject?theme=rule34" alt="visitor counter" />
+  <img src="https://count.getloli.com/get/@Isasmkti?theme=rule34" alt="visitor counter" />
 </p>
 
 ---
@@ -31,7 +32,20 @@ Mulai dari desain sederhana, pengeditan video, hingga pengembangan website — s
 
 ### 🌱 Fokus Saat Ini
 Saya sedang memperdalam pengembangan web dengan teknologi:
-> 🧩 Vue 3 &nbsp;&nbsp; 🎨 Tailwind CSS &nbsp;&nbsp; ⚙️ Express.js &nbsp;&nbsp; 🗄️ MySQL
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50" alt="Vue.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="50" height="50" alt="Laravel" />
+</p>
+
+> 🧩 Vue 3 &nbsp;&nbsp; 🎨 Tailwind CSS &nbsp;&nbsp; ⚙️ Express.js &nbsp;&nbsp; 🗄️ MySQL &nbsp;&nbsp; 🟥 Laravel
 
 ---
 
@@ -47,10 +61,7 @@ Saya sedang memperdalam pengembangan web dengan teknologi:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
-
-
 ---
-
 
 <p align="center">
   Terima kasih sudah mampir 💫  
