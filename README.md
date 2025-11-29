@@ -53,12 +53,10 @@ Saat ini saya sedang memperdalam pengembangan web dengan teknologi berikut:
 ### 📊 Statistik GitHub
 <p align="center">
   <!-- Contribution calendar (lain host, sering lebih stabil) -->
- <p align="center">
-  ### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/Isasmkti/Isasmkti/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Isasmkti/Isasmkti/output/github-contribution-grid-snake.svg" />
 </p>
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
