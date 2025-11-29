@@ -53,7 +53,10 @@ Saat ini saya sedang memperdalam pengembangan web dengan teknologi berikut:
 ### 📊 Statistik GitHub
 <p align="center">
   <!-- Contribution calendar (lain host, sering lebih stabil) -->
-  <img src="https://ghchart.rshah.org/Isasmkti" alt="GitHub contribution chart" width="70%" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isasmkti&show_icons=true&theme=tokyonight" alt="Isa's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
   <!-- Simple GitHub badges (shields.io) -->
   <p>
