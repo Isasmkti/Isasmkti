@@ -8,6 +8,13 @@ Buat saya, ide akan berkembang kalau dijalankan dengan serius dan konsisten.
 
 ---
 
+### Viewer
+<p align="center">
+  <img src="https://count.getloli.com/get/@Isasmkti?theme=rule34" alt="visitor counter" />
+</p>
+
+---
+
 ### Tentang Saya
 Saya suka menggabungkan sisi kreatif dan teknis dalam setiap proyek.  
 Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya saya jalani sambil terus belajar dan mencoba hal baru.
@@ -15,7 +22,7 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
 ---
 
 ### Kemampuan
-- Video editing untuk konten promosi, sosial media, dan proyek kreatif  
+- Video editing untuk konten promosi dan sosial media  
 - Desain grafis sederhana dengan tampilan bersih  
 - Pengembangan website dan aplikasi sederhana  
 - Mengisi waktu luang dengan belajar dan membangun proyek pribadi  
@@ -24,7 +31,6 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
 ---
 
 ### Fokus Belajar Saat Ini
-Saat ini saya memperdalam pengembangan web dengan teknologi berikut:
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -46,11 +52,11 @@ Saat ini saya memperdalam pengembangan web dengan teknologi berikut:
 ### Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isasmkti&show_icons=true&theme=tokyonight" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Isasmkti&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
