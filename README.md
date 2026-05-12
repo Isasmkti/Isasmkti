@@ -23,10 +23,8 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
 
 ### Kemampuan
 - Video editing untuk konten promosi dan sosial media  
-- Desain grafis sederhana dengan tampilan bersih  
-- Pengembangan website dan aplikasi sederhana  
-- Mengisi waktu luang dengan belajar dan membangun proyek pribadi  
-- Menggambar, baik digital maupun manual
+- Optimasi frontend web
+- Graphic design
 
 ---
 
@@ -37,8 +35,8 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ---
@@ -49,15 +47,6 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
 
 ---
 
-### Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Isasmkti&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 ---
 
