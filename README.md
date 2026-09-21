@@ -29,19 +29,18 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
 ---
 ### Fokus Belajar Saat Ini
 
-#### 🌐 Bahasa Vanilla
-![JavaScript](https://shields.io)
-![PHP](https://shields.io)
+####  Bahasa Vanilla
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### 🚀 Framework & Ecosystem
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![Vue.js](https://shields.io)
-![Express.js](https://shields.io)
-![Tailwind CSS](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Supabase](https://shields.io)
-
+####  Framework & Ecosystem
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
