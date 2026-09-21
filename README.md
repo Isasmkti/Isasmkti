@@ -49,15 +49,10 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
 > Aksi tanpa kreativitas tidak akan meninggalkan kesan.
 
 ---
-
-### Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+### Coding Statistics
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Isasmkti&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME_WAKATIME&layout=compact&theme=tokyonight" />
 </p>
 
 ### Kontribusi
