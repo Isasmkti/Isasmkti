@@ -49,9 +49,11 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
 > Aksi tanpa kreativitas tidak akan meninggalkan kesan.
 
 ---
-### Coding Statistics
+### Top lang
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isasmkti&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight"
+  />
 </p>
 
 ### Kontribusi
