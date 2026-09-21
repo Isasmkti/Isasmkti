@@ -53,10 +53,11 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight&langs_count=8"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Isasmkti&layout=compact&theme=tokyonight&langs_count=8"
     alt="Top Languages"
   />
 </p>
+---
 
 ### Kontribusi
 
