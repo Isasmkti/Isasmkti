@@ -29,22 +29,18 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
 ---
 ### Fokus Belajar Saat Ini
 
-#### Vanilla
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+#### 🌐 Bahasa Vanilla
+![JavaScript](https://shields.io)
+![PHP](https://shields.io)
 
-####  Framework & Ecosystem
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+#### 🚀 Framework & Ecosystem
+![React](https://shields.io)
+![Next.js](https://shields.io)
+![Vue.js](https://shields.io)
+![Express.js](https://shields.io)
+![Tailwind CSS](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Supabase](https://shields.io)
 
 
 ---
