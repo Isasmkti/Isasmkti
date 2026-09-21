@@ -50,9 +50,8 @@ Mulai dari desain ringan, editing video, sampai pengembangan website, semuanya s
 
 ---
 ### Coding Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME_WAKATIME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isasmkti&layout=compact&theme=tokyonight" />
 </p>
 
 ### Kontribusi
